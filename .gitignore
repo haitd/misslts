@@ -1,0 +1,12 @@
+node_modules
+.idea
+.webpack
+.serverless
+.vscode
+!.vscode/extensions.json
+.gitlab
+.jest
+npm-debug.log
+.env
+build
+packaged*
